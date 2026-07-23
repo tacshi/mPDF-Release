@@ -12,11 +12,7 @@ in a clean, distraction-free interface built for the Mac.
 [![Latest release](https://img.shields.io/github/v/release/tacshi/mPDF-Release?include_prereleases&label=preview)](https://github.com/tacshi/mPDF-Release/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/tacshi/mPDF-Release/total)](https://github.com/tacshi/mPDF-Release/releases)
 
-[**⬇ Download the latest preview**](https://github.com/tacshi/mPDF-Release/releases/latest)
-
 </div>
-
----
 
 ## About the preview
 
