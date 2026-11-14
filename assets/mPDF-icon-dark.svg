@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#262933"/>
+      <stop offset="1" stop-color="#121318"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+  <rect x="100" y="100" width="824" height="824" rx="186" fill="url(#bg)" filter="url(#shadow)"/>
+  <rect x="102" y="102" width="820" height="820" rx="184" fill="none" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="4"/>
+  <!-- The mark: a handwritten signature in ink over a coral signing line. -->
+  <g transform="translate(512 512) scale(1.1) translate(-525 -515)" fill="none" stroke-width="56"
+     stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 770 C440 700 640 700 780 730" stroke="#FF5A3C"/>
+    <path d="M250 600 C330 560 420 420 420 330 C420 270 360 280 350 360 C336 480 380 660 440 660 C500 660 500 520 540 520 C580 520 560 640 600 640 C640 640 640 540 680 540 C716 540 700 620 740 630 C770 636 790 610 800 590" stroke="#F4F1EA"/>
+  </g>
+</svg>
