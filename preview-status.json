@@ -1,7 +1,9 @@
 {
   "minBuildDate": "",
   "extendUntil": "",
-  "latestVersion": "0.7.3",
-  "downloadUrl": "https://github.com/tacshi/mPDF-Release/releases/tag/preview-0.7.3-2026-10-18",
-  "message": "mPDF Preview 0.7.3 is available."
+  "latestVersion": "0.8.0",
+  "latestChannel": "final",
+  "latestBuildDate": "2026-11-14",
+  "downloadUrl": "https://github.com/tacshi/mPDF-Release/releases/tag/v0.8.0",
+  "message": "mPDF 0.8.0 is available."
 }
