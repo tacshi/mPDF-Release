@@ -1,9 +1,48 @@
 {
   "minBuildDate": "",
   "extendUntil": "",
-  "latestVersion": "0.8.0",
+  "latestVersion": "0.8.1",
   "latestChannel": "final",
-  "latestBuildDate": "2026-11-14",
-  "downloadUrl": "https://github.com/tacshi/mPDF-Release/releases/tag/v0.8.0",
-  "message": "mPDF 0.8.0 is available."
+  "latestBuildDate": "2026-11-17",
+  "downloadUrl": "https://github.com/tacshi/mPDF-Release/releases/tag/v0.8.1",
+  "message": "mPDF 0.8.1 is available.",
+  "platforms": {
+    "macos": {
+      "latestVersion": "0.8.1",
+      "latestChannel": "final",
+      "latestBuildDate": "2026-11-17",
+      "downloadUrl": "https://github.com/tacshi/mPDF-Release/releases/tag/v0.8.1",
+      "message": "mPDF 0.8.1 is available."
+    },
+    "windows": {
+      "latestVersion": "0.8.1",
+      "latestChannel": "final",
+      "latestBuildDate": "2026-11-17",
+      "downloadUrl": "https://github.com/tacshi/mPDF-Release/releases/tag/v0.8.1",
+      "message": "mPDF 0.8.1 is available."
+    }
+  },
+  "latestFinal": {
+    "latestVersion": "0.8.1",
+    "latestChannel": "final",
+    "latestBuildDate": "2026-11-17",
+    "downloadUrl": "https://github.com/tacshi/mPDF-Release/releases/tag/v0.8.1",
+    "message": "mPDF 0.8.1 is available.",
+    "platforms": {
+      "macos": {
+        "latestVersion": "0.8.1",
+        "latestChannel": "final",
+        "latestBuildDate": "2026-11-17",
+        "downloadUrl": "https://github.com/tacshi/mPDF-Release/releases/tag/v0.8.1",
+        "message": "mPDF 0.8.1 is available."
+      },
+      "windows": {
+        "latestVersion": "0.8.1",
+        "latestChannel": "final",
+        "latestBuildDate": "2026-11-17",
+        "downloadUrl": "https://github.com/tacshi/mPDF-Release/releases/tag/v0.8.1",
+        "message": "mPDF 0.8.1 is available."
+      }
+    }
+  }
 }
