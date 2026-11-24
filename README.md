@@ -61,21 +61,6 @@ automatically (you can turn this off in Settings).
   split, rotate, compress, fill forms, encrypt and verify signatures from
   Terminal (`mpdf help` lists every command)
 
-## Releases and previews
-
-Regular releases (tagged `v1.2.3`) don't expire.
-
-Preview builds (tagged `preview-…`) try out upcoming changes early and are
-valid for **45 days** from their release date; the exact date is shown in
-each preview's notes. When a preview reaches the end of its window it
-switches to **read-only mode**:
-
-- ✅ Reading, searching, and exporting keep working
-- ✅ **Save As** always works — your changes are never locked in
-- ⛔ Editing, annotating, organizing pages, and in-place saving are paused
-
-Install a newer release or preview to pick up right where you left off.
-
 ## Feedback
 
 Found a bug or have a suggestion? Please
@@ -87,11 +72,6 @@ When reporting a bug, it helps to include:
 - Your macOS version, and whether your Mac is Apple Silicon or Intel
 - Steps to reproduce, and a sample PDF if the issue is file-specific
   (only share files you're comfortable making public)
-
-## Roadmap
-
-After 1.0, mPDF will be a paid app — preview users will have a smooth
-upgrade path.
 
 ---
 
