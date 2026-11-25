@@ -22,9 +22,10 @@ Coming soon to iPhone and iPad.
 
 <br>
 
-<img src="assets/screenshots/ipad/02-markup.jpg" width="860" alt="mPDF marking up a report: highlighted and underlined text, a note and a circled chart legend, with the Markup toolbar along the bottom">
+<img src="assets/screenshots/mac/01-reading.png" width="860" alt="mPDF on a Mac showing Walden as a two-page spread, edge to edge, with no title bar or toolbars">
 
-<sub>Markup on iPad. More screenshots [below](#screenshots).</sub>
+<sub>Reading on a Mac: the title bar and tools stay out of sight until you reach for them.
+More screenshots [below](#screenshots).</sub>
 
 </div>
 
@@ -115,6 +116,21 @@ later).
 
 ## Screenshots
 
+### Mac
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/screenshots/mac/02-night.png" alt="A lease in Night appearance on a Mac, its highlight, underline and note still readable"></td>
+    <td width="50%"><img src="assets/screenshots/mac/03-sepia.png" alt="An annual report as a two-page spread in Sepia appearance on a Mac"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Night</sub></td>
+    <td align="center"><sub>Sepia</sub></td>
+  </tr>
+</table>
+
+### iPad
+
 <table>
   <tr>
     <td width="50%"><img src="assets/screenshots/ipad/01-reading.jpg" alt="Reading Walden with the page thumbnails sidebar and document tabs"></td>
@@ -134,6 +150,8 @@ later).
   </tr>
 </table>
 
+### iPhone
+
 <table>
   <tr>
     <td width="25%"><img src="assets/screenshots/iphone/01-reading.jpg" alt="Reading on iPhone"></td>
@@ -149,6 +167,8 @@ later).
   </tr>
 </table>
 
+### iPhone Duo
+
 <table>
   <tr>
     <td width="33%"><img src="assets/screenshots/iphone-duo/01-reading.jpg" alt="Reading on an unfolded iPhone Duo"></td>
@@ -156,7 +176,7 @@ later).
     <td width="33%"><img src="assets/screenshots/iphone-duo/05-organize.jpg" alt="Organizing pages on an unfolded iPhone Duo"></td>
   </tr>
   <tr>
-    <td colspan="3" align="center"><sub>iPhone Duo, unfolded</sub></td>
+    <td colspan="3" align="center"><sub>Unfolded</sub></td>
   </tr>
 </table>
 
